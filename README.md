@@ -6,10 +6,6 @@ To assemble the components of the computer.
 1.Open the case:The First Step In Assembling A Computer Is To Open The Computer Case. To Open The Case, First Remove The Screws Of The Left Side Cover And Slide The Side Cover.
 ![268159765-469515db-b08d-4bad-a36b-fd30f55e9965](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/105907c0-03dc-4c03-ba19-2d510242595e)
 
-![268159765-469515db-b08d-4bad-a36b-fd30f55e9965](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/4fa9d75f-03d2-4773-9068-19e9633eca0a)
-
-![268159765-469515db-b08d-4bad-a36b-fd30f55e9965](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/8c7ebf2a-616b-42f0-9069-59f953ed31e9)
-
 2.Install the power supply:The next step is to install a power supply. There are usually four screws that attach the power supply to the case.
 ![268159990-c64751d6-40a0-4cd3-968e-3dd39323d888](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/037e4652-be3b-4930-9f2c-16455dc35a5c)
 
@@ -51,16 +47,12 @@ To assemble the components of the computer.
 11.Install motherboard power connections:The Advanced Technology Extended (ATX) Main Power Connector Will Have Either 20 Or 24 Pins.
 ![268160547-aefc79ea-3449-4410-ba00-75336e9eddd9](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/234839d9-85b8-4d90-a9b2-fa8fce7a7d41)
 
-![268160547-aefc79ea-3449-4410-ba00-75336e9eddd9](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/0422a91e-eef8-4619-96fd-4f9641f4424f)
-
-![268160547-aefc79ea-3449-4410-ba00-75336e9eddd9](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/00127e54-9f1c-4d7a-a4b6-0f2e6721d11b)
 
 
 12.Connect external cables to the computer.The VGA Cable Is Used To Connect To Monitor.
 
 ![268160587-6c9a3f0f-b99e-4ecb-aa6d-e498d4164d0f](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/1a431910-6a6b-4fac-97d8-3ff6dc534886)
 
-![268160587-6c9a3f0f-b99e-4ecb-aa6d-e498d4164d0f](https://github.com/elamarannn/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/113497531/9dd6c15d-6104-40ee-8ebf-ef49daac3281)
 
 
 13.Push the power button to start the computer.
